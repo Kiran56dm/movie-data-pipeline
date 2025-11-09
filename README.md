@@ -101,6 +101,3 @@ Use DB Browser for SQLite:
 - PowerShell blocked virtual environment activation → fixed using execution policy bypass  
 - `.env` didn’t load at first because of incorrect file placement → fixed by placing it next to `etl.py`  
 
----
-
- **Project complete and ready for review.**
