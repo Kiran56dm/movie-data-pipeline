@@ -1,4 +1,4 @@
-# Movie Data Pipeline  
+# Movie Data Pipeline   
 
 ##  Overview
 This project implements a simple data pipeline using MovieLens CSV files and the OMDb API.
